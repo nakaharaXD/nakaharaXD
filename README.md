@@ -9,8 +9,8 @@
       <a href="https://katalyzorr.straw.page">sᴛʀᴀᴡᴘᴀɢᴇ</a> -
           <a href="https://www.roblox.com/users/448865571/profile">ʀʙʟx ᴘʀᴏғ.</a>　       ɞ
         <p align="center">
-<img width="400" height="250" alt="nexttimeyouwontbesolucky!" src="https://github.com/user-attachments/assets/13a6465a-54e6-451a-851c-f32fcc806460" />
-        <p align="center">
+<img width="530" height="440" alt="nexttimeyouwontbesolucky!" src="https://github.com/user-attachments/assets/906e080b-0227-4a2e-97cc-14cccf4b49d0" />
+
     <!--
 **valentinesxday/valentinesxday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
