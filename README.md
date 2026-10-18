@@ -10,7 +10,7 @@
           <a href="https://www.roblox.com/users/448865571/profile">ʀʙʟx ᴘʀᴏғ.</a>　       ɞ
         <p align="center">
 <img width="530" height="440" alt="nexttimeyouwontbesolucky!" src="https://github.com/user-attachments/assets/906e080b-0227-4a2e-97cc-14cccf4b49d0" />
-
+        </p>
     <!--
 **valentinesxday/valentinesxday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
